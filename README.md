@@ -1,4 +1,4 @@
-# Mini-Project
+# Portfolio-Generator
 
 ---
 
